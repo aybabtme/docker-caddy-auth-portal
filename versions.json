@@ -1,0 +1,8 @@
+{
+  "tag": "0.0.1",
+  "caddy": "2.3.0",
+  "xcaddy": "0.1.8",
+  "caddy_auth_portal": "1.4.3",
+  "caddy_auth_jwt": "1.2.6",
+  "caddy_trace": "1.1.5"
+}
