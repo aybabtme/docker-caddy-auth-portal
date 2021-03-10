@@ -1,5 +1,3 @@
-# docker-sqlboiler
+# docker-caddy-auth-portal
 
-Use `aybabtme/sqlboiler:latest`
-
-[`sqlboiler`](https://github.com/volatiletech/sqlboiler) with the CockroachDB driver included.
+Use `aybabtme/caddy-auth-portal:latest`
